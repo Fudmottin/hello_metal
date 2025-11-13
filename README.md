@@ -1,4 +1,4 @@
-* hello_metal
+# hello_metal
 
 This is just a vibe coded Objective-C++ application to test using metal on the
 command line.
