@@ -11,3 +11,16 @@ xcodebuild -downloadComponent MetalToolchain
 
 Experience the full horror of Objective-C++!
 
+## Build
+
+After cloning the repo (on a Mac), do the usual cmake mantra:
+
+```bash
+mkdir build
+cd build
+cmake ..
+make
+```
+
+I've tested on an M2 Mac mini and an M4 Mac mini. My cmake is from brew.
+
